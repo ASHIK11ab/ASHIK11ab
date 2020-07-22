@@ -1,6 +1,9 @@
 ### Hi there 👋 im Ashik Meeran Mohideen
-🌱 I’m currently learning web development.
+🌐 Full stack web developer.
 
-💬 Ask me about anything: ashikmeeranmohideen@gmail.com
+Youtube Chanel: https://m.youtube.com/channel/UCnhoJiStmQvt2RWJ89_t_ig
 
-📫 How to reach me: linkedin.com/in/ashik-meeran-mohideen-157091189
+✉ Ask me about anything: ashikmeeranmohideen@gmail.com
+
+📫 How to reach me: https://linkedin.com/in/ashik-meeran-mohideen-157091189
+
