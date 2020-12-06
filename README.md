@@ -1,8 +1,30 @@
-### Hi there 👋 im Ashik Meeran Mohideen
-🌐 Full stack web developer.
+### Hi there 👋 im [Ashik Meeran Mohideen](https://www.linkedin.com/in/ashik-meeran-mohideen-157091189/)
+- 🌐 I am Full stack web developer.
+- ▶️ I do youtube occasionally.
+- 📌 Member @SVCE-ACM
+- ⚡ Ask me about any stuff related to web.
 
-Youtube Chanel: https://m.youtube.com/channel/UCnhoJiStmQvt2RWJ89_t_ig
+### Connect with me:
 
-📫 Connect with me: https://linkedin.com/in/ashik-meeran-mohideen-157091189
+<a style="position: absolute; left: 5rem;" href="https://www.linkedin.com/in/ashik-meeran-mohideen-157091189/">
+  <img align="left" alt="ASHIK11ab | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a style="position: absolute; left: 7.5rem;" href="https://www.youtube.com/channel/UCnhoJiStmQvt2RWJ89_t_ig?view_as=subscriber">
+  <img align="left" alt="ASHIK11ab | YouTube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<br />
 
-✉ Ask me about anything: ashikmeeranmohideen@gmail.com
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="26px" alt="python logo">
+<img align="left" alt="Vector logo for Flask: Icon" src="logos/flask.svg" style="height: 30px">
+<img align="left" alt="Vector logo for Postgres: Icon" src="logos/postgresql.svg" style="height: 28px">
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<br />
+<br />
