@@ -28,7 +28,8 @@
 
 <br />
 <br />
-----
+
+---
 
 ### 📺 Latest YouTube Videos
 
@@ -36,3 +37,15 @@
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCnhoJiStmQvt2RWJ89_t_ig?view_as=subscriber)
+
+---
+
+### Github Stats
+<br />
+
+[![Ashik Meeran Mohideen stats](https://github-readme-stats.vercel.app/api?username=ASHIK11ab&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASHIK11ab)](https://github.com/anuraghazra/github-readme-stats)
+
