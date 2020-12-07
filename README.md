@@ -1,5 +1,5 @@
 ### Hi there 👋 im [Ashik Meeran Mohideen](https://www.linkedin.com/in/ashik-meeran-mohideen-157091189/)
-- 🌐 I am Full stack web developer.
+- 🌐 I am a Full stack web developer.
 - ▶️ I do youtube occasionally.
 - 📌 Member @SVCE-ACM
 - ⚡ Ask me about any stuff related to web.
@@ -72,3 +72,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASHIK11ab)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+<!-- START_SECTION:Activity -->
+<!-- END_SECTION:Activity -->
