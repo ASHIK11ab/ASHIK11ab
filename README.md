@@ -52,11 +52,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Connecting to Databases from Python + Basic SQL Queries [2021]](https://www.youtube.com/watch?v=UBf1z4sVV10)
 - [Flask Crash Course (2020)](https://www.youtube.com/watch?v=KbJ2Fa56cEw)
 - [OAuth login (Google, Github) in Flask using Authlib (2020)](https://www.youtube.com/watch?v=ZCDzwYaAKCI)
 - [E-commerce website using Flask and Pickle module (without javascript)](https://www.youtube.com/watch?v=IXl04amYAxA)
 - [cs50 project0- web programming with python and javascript.](https://www.youtube.com/watch?v=vl6I-lkM1nY)
-- [Library management system using c++](https://www.youtube.com/watch?v=a7rf8wnZ5dM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCnhoJiStmQvt2RWJ89_t_ig?view_as=subscriber)
