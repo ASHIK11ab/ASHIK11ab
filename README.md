@@ -46,6 +46,12 @@
   </tr>
 </table>
 
+<p align="center">
+  <a href="http://hits.dwyl.com/ASHIK11ab/ASHIK11ab">
+    <img src = "http://hits.dwyl.com/ASHIK11ab/ASHIK11ab.svg" alt="Hit Count">
+  </a>
+</p>
+
 ---
 
 ### 📺 Latest YouTube Videos
