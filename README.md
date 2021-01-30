@@ -1,5 +1,5 @@
 ### Hi there 👋 im [Ashik Meeran Mohideen](https://www.linkedin.com/in/ashik-meeran-mohideen-157091189/)
-- I am a Full stack web developer.
+- 🌐 I am a Full stack web developer.
 - ▶️ I also do [YouTube](https://www.youtube.com/channel/UCnhoJiStmQvt2RWJ89_t_ig?view_as=subscriber).
 - ⚡ Ask me about any stuff related to web.
 
