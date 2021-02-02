@@ -57,7 +57,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [URL Shortner: create your own URL shortner using Flask under 30 minutes (2021)](https://www.youtube.com/watch?v=ilW7g7nddM0)
+- [URL Shortner: Create a URL shortner using Flask (From scratch | 2021)](https://www.youtube.com/watch?v=ilW7g7nddM0)
 - [Python Databases: Connecting to a database from Python (2021)](https://www.youtube.com/watch?v=UBf1z4sVV10)
 - [Flask Crash Course (2020)](https://www.youtube.com/watch?v=KbJ2Fa56cEw)
 - [OAuth in Flask: Sign in with Google, Github in Flask using Authlib (2020)](https://www.youtube.com/watch?v=ZCDzwYaAKCI)
