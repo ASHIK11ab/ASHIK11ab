@@ -11,8 +11,7 @@
  <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />&nbsp;&nbsp
  <img alt="Vector logo for Python: Icon" src="logos/python.svg" width="30px">&nbsp;&nbsp;
  <img alt="Vector logo for Flask: Icon" src="logos/flask.svg" width="30px">
-</p><br>
-<p align="center">
+ <br><br>
  <img alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&nbsp;&nbsp;
  <img alt="Vector logo for Postgres: Icon" src="logos/postgresql.svg" width="30x">&nbsp;&nbsp
  <img alt="Vector logo for Git: Icon" src="logos/git.svg" width="30px">&nbsp;&nbsp
