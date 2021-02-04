@@ -1,55 +1,39 @@
-### Hi there 👋 im [Ashik Meeran Mohideen](https://www.linkedin.com/in/ashik-meeran-mohideen-157091189/)
+### Hi there 👋 im [Ashik Meeran Mohideen](https://www.linkedin.com/in/ashik-meeran-mohideen)
 - 🌐 I am a Full stack web developer.
-- ▶️ I also do [YouTube](https://www.youtube.com/channel/UCnhoJiStmQvt2RWJ89_t_ig?view_as=subscriber).
-- ⚡ Ask me about any stuff related to web.
-
-### Connect with me:
-
-<a style="position: absolute; left: 5rem;" href="https://www.linkedin.com/in/ashik-meeran-mohideen-157091189/">
-  <img align="left" alt="ASHIK11ab | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a style="position: absolute; left: 7.5rem;" href="https://www.youtube.com/channel/UCnhoJiStmQvt2RWJ89_t_ig?view_as=subscriber">
-  <img align="left" alt="ASHIK11ab | YouTube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<br />
+- ▶️ I also do [**YouTube**](https://www.youtube.com/channel/UCnhoJiStmQvt2RWJ89_t_ig?view_as=subscriber).
+- ⚡ Currently iam doing a [**Flask Series**](https://youtube.com/playlist?list=PL8qcgm1_2o5p5wPZJkA6FlPu-29A1a9IU) and working on a project.
+- 🔥 Ask me about any stuff related to web.
 
 ### Languages and Tools:
-<table>
-  <tr>
-    <td> 
-     <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-    </td>
-    <td> 
-      <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-    </td>
-    <td> 
-      <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-    </td>
-    <td> 
-     <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-    </td>
-    <td> 
-     <img align="left" alt="Vector logo for Python: Icon" src="logos/python.svg" width="26px">
-    </td>
-    <td> 
-     <img align="left" alt="Vector logo for Flask: Icon" src="logos/flask.svg" width="28px">
-    </td>
-    <td> 
-     <img align="left" alt="Vector logo for Postgres: Icon" src="logos/postgresql.svg" width="26x">
-    </td>
-    <td> 
-     <img align="left" alt="Vector logo for Git: Icon" src="logos/git.svg" width="26px">
-    </td>
-    <td>
-     <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+ <img alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />&nbsp;&nbsp
+ <img alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />&nbsp;&nbsp
+ <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />&nbsp;&nbsp
+ <img alt="Vector logo for Python: Icon" src="logos/python.svg" width="30px">&nbsp;&nbsp;
+ <img alt="Vector logo for Flask: Icon" src="logos/flask.svg" width="30px">
+</p><br>
+<p align="center">
+ <img alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&nbsp;&nbsp;
+ <img alt="Vector logo for Postgres: Icon" src="logos/postgresql.svg" width="30x">&nbsp;&nbsp
+ <img alt="Vector logo for Git: Icon" src="logos/git.svg" width="30px">&nbsp;&nbsp
+ <img alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+</p>
+
+--- 
 
 <p align="center">
-  <a href="http://hits.dwyl.com/ASHIK11ab/ASHIK11ab">
-    <img src = "http://hits.dwyl.com/ASHIK11ab/ASHIK11ab.svg" alt="Hit Count">
-  </a>
+  <a href="https://github.com/ASHIK11ab/">
+    <img width="30px" src="/icons/github.svg" alt="Ashik Meeran Mohideen - GitHub" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ashik-meeran-mohideen">
+    <img width="30px" src="/icons/linkedIn.svg" alt="Ashik Meeran Mohideen - LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/UCnhoJiStmQvt2RWJ89_t_ig">
+    <img width="30px" src="/icons/youtube.svg" alt="Ashik Meeran Mohideen - YouTube" />
+  </a>&nbsp;&nbsp;
+  <a href"mailto:ashikmeeranmohideen@gmail.com">
+    <img width="30px" src="/icons/email.svg" alt="Ashik Meeran Mohideen - Email" />
+  </a>&nbsp;&nbsp;
 </p>
 
 ---
