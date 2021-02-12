@@ -6,7 +6,7 @@
 
 ### Languages and Tools:
 <p align="center">
- <img src="/assests/language-tools-image.png" alt="Languages and Tools which i use" width="700px" 700pheight="500px">
+ <img src="/assets/language-tools-image.png" alt="Languages and Tools which i use" width="400px" height="200px">
 
 --- 
 
