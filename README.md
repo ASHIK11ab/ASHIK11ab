@@ -1,4 +1,4 @@
-### Hi there 👋 im [Ashik Meeran Mohideen](https://www.linkedin.com/in/ashik-meeran-mohideen)
+### Hi there 👋 iam [Ashik Meeran Mohideen](https://www.linkedin.com/in/ashik-meeran-mohideen)
 - 🌐 I am a Full stack web developer.
 - ▶️ I also do [**YouTube**](https://www.youtube.com/channel/UCnhoJiStmQvt2RWJ89_t_ig?view_as=subscriber).
 - ⚡ Currently iam doing a [**Flask Series**](https://youtube.com/playlist?list=PL8qcgm1_2o5p5wPZJkA6FlPu-29A1a9IU) and working on a project.
