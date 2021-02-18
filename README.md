@@ -31,11 +31,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ORM in Flask: Learn to use ORM in Flask using Flask-SQLAlchemy (A Quickstart guide) [2021]](https://www.youtube.com/watch?v=7C_zr5f9ed4)
 - [URL Shortner: Create a URL shortner using Flask (From scratch | 2021)](https://www.youtube.com/watch?v=ilW7g7nddM0)
 - [Python SQL: Execute SQL queries from Python (2021)](https://www.youtube.com/watch?v=UBf1z4sVV10)
 - [Flask Crash Course (2020)](https://www.youtube.com/watch?v=KbJ2Fa56cEw)
 - [OAuth in Flask: Sign in with Google, Github in Flask using Authlib (2020)](https://www.youtube.com/watch?v=ZCDzwYaAKCI)
-- [E-commerce website using Flask and Pickle module (without javascript)](https://www.youtube.com/watch?v=IXl04amYAxA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCnhoJiStmQvt2RWJ89_t_ig?view_as=subscriber)
