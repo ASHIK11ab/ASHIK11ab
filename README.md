@@ -31,7 +31,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Object Relational Mapping (ORM) in Flask (A complete guide | 2021)](https://www.youtube.com/watch?v=7C_zr5f9ed4)
+- [ORM's in Flask (A complete guide)](https://www.youtube.com/watch?v=7C_zr5f9ed4)
 - [URL Shortner: Create a URL shortner using Flask (From scratch | 2021)](https://www.youtube.com/watch?v=ilW7g7nddM0)
 - [Python SQL: Execute SQL queries from Python (2021)](https://www.youtube.com/watch?v=UBf1z4sVV10)
 - [Flask Crash Course (2020)](https://www.youtube.com/watch?v=KbJ2Fa56cEw)
