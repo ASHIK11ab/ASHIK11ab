@@ -13,16 +13,16 @@
 
 <p align="center">
   <a href="https://github.com/ASHIK11ab/">
-    <img width="30px" src="/icons/github.svg" alt="Ashik Meeran Mohideen - GitHub" />
+    <img width="30px" src="icons/github.png" alt="Ashik Meeran Mohideen - GitHub" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ashik-meeran-mohideen">
-    <img width="30px" src="/icons/linkedIn.svg" alt="Ashik Meeran Mohideen - LinkedIn" />
+    <img width="30px" src="icons/linkedin.png" alt="Ashik Meeran Mohideen - LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UCnhoJiStmQvt2RWJ89_t_ig">
-    <img width="30px" src="/icons/youtube.svg" alt="Ashik Meeran Mohideen - YouTube" />
+    <img width="30px" src="icons/youtube.png" alt="Ashik Meeran Mohideen - YouTube" />
   </a>&nbsp;&nbsp;
   <a href"mailto:ashikmeeranmohideen@gmail.com">
-    <img width="30px" src="/icons/email.svg" alt="Ashik Meeran Mohideen - Email" />
+    <img width="30px" src="icons/email.png" alt="Ashik Meeran Mohideen - Email" />
   </a>&nbsp;&nbsp;
 </p>
 
