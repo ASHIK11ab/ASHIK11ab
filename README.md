@@ -31,11 +31,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Todo Application: Create a full featured web app using Flask (Part II)](https://www.youtube.com/watch?v=bVMfUp5dozU)
-- [Todo App in Flask: Create a full featured web app using Flask || (Part I)](https://www.youtube.com/watch?v=P1Gj-OK2oXg)
-- [ORM's in Flask: Use objects to interact with database instead of raw SQL.](https://www.youtube.com/watch?v=7C_zr5f9ed4)
-- [URL Shortner: Create a URL shortner using Flask (From scratch | 2021)](https://www.youtube.com/watch?v=ilW7g7nddM0)
-- [Python SQL: Execute SQL queries from Python (2021)](https://www.youtube.com/watch?v=UBf1z4sVV10)
+- [EP 06: Todo Application: Create a full featured web app using Flask (Part II)](https://www.youtube.com/watch?v=bVMfUp5dozU)
+- [EP 05: Todo App in Flask: Create a full featured web app using Flask || (Part I)](https://www.youtube.com/watch?v=P1Gj-OK2oXg)
+- [EP 04: ORM's in Flask: Use objects to interact with database instead of raw SQL.](https://www.youtube.com/watch?v=7C_zr5f9ed4)
+- [EP 03: URL Shortner: Create a URL shortner using Flask (From scratch | 2021)](https://www.youtube.com/watch?v=ilW7g7nddM0)
+- [EP 02: Python SQL: Execute SQL queries from Python (2021)](https://www.youtube.com/watch?v=UBf1z4sVV10)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCnhoJiStmQvt2RWJ89_t_ig?view_as=subscriber)
