@@ -1,8 +1,9 @@
 ### Hi there 👋 iam [Ashik Meeran Mohideen](https://www.linkedin.com/in/ashik-meeran-mohideen)
 - 🌐 I am a Full stack web developer.
+- ⚡ Currently i'am working on my project [**Swito.**](https://swito.herokuapp.com)
 - ▶️ I also do [**YouTube**](https://www.youtube.com/channel/UCnhoJiStmQvt2RWJ89_t_ig?view_as=subscriber).
-- ⚡ Currently iam doing a [**Flask Series**](https://youtube.com/playlist?list=PL8qcgm1_2o5p5wPZJkA6FlPu-29A1a9IU) and working on a project.
 - 🔥 Ask me about any stuff related to web.
+- 📍 Reach out to me through [**LinkedIn**](https://www.linkedin.com/in/ashik-meeran-mohideen) or [**Email**](mailto:ashikmeeranmohideen@gmail.com)
 
 ### Languages and Tools:
 <p align="center">
@@ -21,7 +22,7 @@
   <a href="https://www.youtube.com/channel/UCnhoJiStmQvt2RWJ89_t_ig">
     <img width="30px" src="icons/youtube.png" alt="Ashik Meeran Mohideen - YouTube" />
   </a>&nbsp;&nbsp;
-  <a href"mailto:ashikmeeranmohideen@gmail.com">
+  <a href="mailto:ashikmeeranmohideen@gmail.com">
     <img width="30px" src="icons/email.png" alt="Ashik Meeran Mohideen - Email" />
   </a>&nbsp;&nbsp;
 </p>
